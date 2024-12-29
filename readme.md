@@ -1,7 +1,5 @@
 # GLAMORA
 
-AN AI FASHION RECOMMENDER ASSISSTANT 
-
 Installation:
 
 1. Clone repo: `git clone <repo_url>`
